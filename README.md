@@ -8,14 +8,21 @@ This Food Inventory Management Application is a robust solution for tracking foo
 
 ### 1. User Authentication
 
-Secure login system to prevent unauthorized access
-Role-based access control
-Prevents tampering with inventory data
-User registration and profile management
+- Secure login system to prevent unauthorized access
+- Role-based access control
+- Prevents tampering with inventory data
+- User registration and profile management
 
 ### 2. Food Item Management
 
-Add new food items with detailed information
-Update existing food item details
-Delete food items when no longer available
-View comprehensive list of all food items
+- Add new food items with detailed information
+- Update existing food item details
+- Delete food items when no longer available
+- View comprehensive list of all food items
+
+## Technology Stack:
+1. Python
+2. Django
+3. HTML/CSS
+4. Bootstrap
+
