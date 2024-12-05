@@ -4,15 +4,16 @@ This Food Inventory Management Application is a robust solution for tracking foo
 
 ![image](https://github.com/user-attachments/assets/979fb060-7203-463d-a15b-d2be6b6159fd)
 
-##Features
-###1. User Authentication
+## Features:
+
+### 1. User Authentication
 
 Secure login system to prevent unauthorized access
 Role-based access control
 Prevents tampering with inventory data
 User registration and profile management
 
-###2. Food Item Management
+### 2. Food Item Management
 
 Add new food items with detailed information
 Update existing food item details
