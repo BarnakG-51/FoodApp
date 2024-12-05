@@ -20,7 +20,8 @@ This Food Inventory Management Application is a robust solution for tracking foo
 - Delete food items when no longer available
 - View comprehensive list of all food items
 
-##Image Gallery: 
+## Image Gallery: 
+
 ![image](https://github.com/user-attachments/assets/979fb060-7203-463d-a15b-d2be6b6159fd)
 ![image](https://github.com/user-attachments/assets/784d326a-b005-4599-be4f-4b7abb1bb4c2)
 ![image](https://github.com/user-attachments/assets/4bfa9f81-f455-4a8c-a48e-f1649b7a8ac6)
